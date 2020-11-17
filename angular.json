@@ -130,7 +130,7 @@
       }
     }
   },
-  "defaultProject": "jv-weather",
+  "defaultProject": "deco-weather",
   "cli": {
     "analytics": "27a36e62-e94c-42da-bc4a-88bf5e8b4e47"
   }
